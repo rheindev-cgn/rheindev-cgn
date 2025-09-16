@@ -7,13 +7,14 @@ Ich bin angehender Fachinformatiker AE und lerne gerade **C#-Programmierung** un
 - [Projekt 2]: ([Vier gewinnt](https://rheindev-cgn.github.io/viergewinnt/))
 
 ### 📫 Wie du mich erreichst
-- [LinkedIn](Link-zum-LinkedIn)
+- [LinkedIn]([Link-zum-LinkedIn](https://www.linkedin.com/in/michael-overath-a9b9bb382/))
 - [E-Mail](mailto:deine-email@example.com)
 
 ### 🛠️ Meine Skills
 - C# (Anfänger)
 - HTML, CSS, JavaScript (Grundkenntnisse)
-- 
+- MS Office
+- VS Code
 
 ---
  *"Lernen ist wie Rudern gegen den Strom. Sobald man aufhört, treibt man zurück."* – Benjamin Britten
