@@ -27,8 +27,8 @@ Ich bin **Umschüler zum Fachinformatiker für Anwendungsentwicklung** – mit L
 
 Hier sind einige Projekte, die ich bereits umgesetzt habe:
 
-- **[Tic-Tac-Toe (JavaScript)](LINK_EINFÜGEN)** – Ein klassisches Spiel mit interaktivem Design.
-- **[Vier gewinnt (JavaScript)](LINK_EINFÜGEN)** – Strategie und Logik in Reinform.
+- **[Tic-Tac-Toe (JavaScript)](https://rheindev-cgn.github.io/tictactoe/)** – Ein klassisches Spiel mit interaktivem Design.
+- **[Vier gewinnt (JavaScript)](https://rheindev-cgn.github.io/viergewinnt/)** – Strategie und Logik in Reinform.
 
 *(Mehr Projekte folgen bald – ich lerne jeden Tag dazu!)*
 
