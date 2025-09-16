@@ -36,15 +36,15 @@ Hier sind einige Projekte, die ich bereits umgesetzt habe:
 
 ## 📊 GitHub-Statistiken
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelOverath&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=4da1ff&title_color=4da1ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelOverath&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=4da1ff)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheindev-cgn&show_icons=true&theme=dark&bg_color=0d1117&text_color=ffffff&icon_color=4da1ff&title_color=4da1ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rheindev-cgn&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=4da1ff)
 
 ---
 
 ## 📫 Kontakt
 
-- **LinkedIn**: [Dein LinkedIn-Profil](LINK_EINFÜGEN)
-- **E-Mail**: [Schreib mir eine E-Mail](mailto:DEINE_EMAIL)
+- **LinkedIn**: [Mein LinkedIn-Profil](https://www.linkedin.com/in/michael-overath-a9b9bb382/)
+- **E-Mail**: [Schreib mir eine E-Mail](mailto:michael.overath@googlemail.com)
 
 ---
 
