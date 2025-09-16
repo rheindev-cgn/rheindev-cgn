@@ -7,7 +7,7 @@ Ich bin angehender Fachinformatiker AE und lerne gerade **C#-Programmierung** un
 - [Projekt 2]: ([Vier gewinnt](https://rheindev-cgn.github.io/viergewinnt/))
 
 ### 📫 Wie du mich erreichst
-- [LinkedIn]([Link-zum-LinkedIn](https://www.linkedin.com/in/michael-overath-a9b9bb382/))
+- [LinkedIn]([Mein LinkedIn-Profil](https://www.linkedin.com/in/michael-overath-a9b9bb382/))
 - [E-Mail](mailto:deine-email@example.com)
 
 ### 🛠️ Meine Skills
