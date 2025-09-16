@@ -3,8 +3,8 @@
 Ich bin angehender Fachinformatiker AE und lerne gerade **C#-Programmierung** und vertiefe meine Kenntnisse in **HTML / CSS / JavaScript**.
 
 ### 🔧 Meine Projekte
-- [Projekt - TicTacToe]([Link-zum-Projekt](https://rheindev-cgn.github.io/tictactoe/)): Beschreibung
-- [Projekt 2 - Vier Gewinnt]([Link-zum-Projekt](https://rheindev-cgn.github.io/viergewinnt/)): Beschreibung
+- [Projekt 1]([TicTacToe](https://rheindev-cgn.github.io/tictactoe/)): Beschreibung
+- [Projekt 2]([Vier gewinnt](https://rheindev-cgn.github.io/viergewinnt/)): Beschreibung
 
 ### 📫 Wie du mich erreichst
 - [LinkedIn](Link-zum-LinkedIn)
