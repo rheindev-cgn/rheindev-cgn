@@ -8,7 +8,7 @@ Ich bin angehender Fachinformatiker AE und lerne gerade **C#-Programmierung** un
 
 ### 📫 Wie du mich erreichst
 - [Mein LinkedIn-Profil](https://www.linkedin.com/in/michael-overath-a9b9bb382/)
-- [E-Mail](mailto:deine-email@example.com)
+- [E-Mail](mailto:michael.overath@googlemail.com)
 
 ### 🛠️ Meine Skills
 - C# (Anfänger)
