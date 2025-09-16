@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hallo, ich bin rheindev-cgn!
 
-<!--
-**rheindev-cgn/rheindev-cgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin angehender Fachinformatiker AE und lerne gerade **C#-Programmierung** und vertiefe meine Kenntnisse in **HTML / CSS / JavaScript**.
 
-Here are some ideas to get you started:
+### 🔧 Meine Projekte
+- [Projekt 1](Link-zum-Projekt): Beschreibung
+- [Projekt 2](Link-zum-Projekt): Beschreibung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Wie du mich erreichst
+- [LinkedIn](Link-zum-LinkedIn)
+- [E-Mail](mailto:deine-email@example.com)
+
+### 🛠️ Meine Skills
+- C# (Anfänger)
+- HTML, CSS, JavaScript (Grundkenntnisse)
+- 
+
+---
+ *"Lernen ist wie Rudern gegen den Strom. Sobald man aufhört, treibt man zurück."* – Benjamin Britten
